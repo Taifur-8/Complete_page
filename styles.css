@@ -4,9 +4,8 @@
     box-sizing: border-box;
 
 }
-html{
-    height: 100%;
-    overflow-x: hidden;
+section{
+   margin-bottom: 100px;
 }
 .hero{
     background-color: #1F2937;
@@ -104,4 +103,49 @@ nav>h1{
     border: 2px dashed red;
     height: 200px;
     width: 200px;
+}
+.thor{
+    height: 300px;
+    width: 100%;
+    background-color: #E5E7EB;
+    padding: 100px 300px 100px 300px;
+    
+}
+.quotes>p{
+    font-size: 36px;
+    font-style: italic;
+}
+
+.quotes>h2{
+  text-align: end;
+  display: flex;
+}
+
+.call_to_action{
+    margin: 100px 250px 100px 250px;
+    background-color: #3882F6;
+    color: white;
+    height: 200px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.call_btn{
+    background-color: #3882F6;
+    border-radius: 5px;
+    color: #E5E7EB;
+    width: 100px;
+    padding: 8px;
+    border: 1px solid #E5E7EB;
+}
+.ftr{
+    background-color: #1F2937;
+    margin-bottom: 0;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #F9FAF8;
 }
