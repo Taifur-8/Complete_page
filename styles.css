@@ -117,7 +117,7 @@ nav>h1{
 }
 
 .quotes>h2{
-  text-align: end;
+  justify-content: end;
   display: flex;
 }
 
