@@ -1,1 +1,2 @@
-# Complete_page
+In this project I will be creating a complete webpage for the first time 
+And through this project I'm hoping to practice all the things I've learned so far...
